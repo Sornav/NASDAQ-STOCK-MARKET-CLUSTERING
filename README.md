@@ -1,5 +1,5 @@
 # NASDAQ-STOCK-MARKET-CLUSTERING
-NASDAQ Stock Marketing Clustering using K-Means Clustering
+NASDAQ Stock Market Clustering using K-Means Clustering
 
 This machine learning project is about clustering similar companies with K-means clustering algorithm. The similarity is based on their annual performance.So basically the stocks are grouped according to their annual return and volatility.Here we have taken over 200 companies listed on the NASDAQ stock exchange into consideration.
 
